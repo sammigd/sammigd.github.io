@@ -7,5 +7,4 @@ redirect_from:
   - /resume
 ---
 
-![cv as of Dec 15 2024 (test)](../images/SamanthaDeanCV.12.15.2024.png)
-
+<embed src="{{ site.baseurl }}/files/SamanthaDeanCV_github.pdf" width="600" height="700" type='application/pdf'> 
