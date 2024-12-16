@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : #"Samantha G. Dean, PhD"
+title                    : "Samantha G. Dean, PhD"
 title_separator          : "-"
 #name                     : &name "Your Name"
 #description              : &description "personal description"
@@ -22,7 +22,7 @@ repository               : "sammigd/sammigd.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Samantha G. Dean, PhD"
+  name             : #"Samantha G. Dean, PhD"
   pronouns         : # example: "she/her"  
   bio              : #"Short biography for the left-hand sidebar"
   location         : "Atlanta, GA"
@@ -58,7 +58,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "www.linkedin.com/in/samantha-dean123"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
