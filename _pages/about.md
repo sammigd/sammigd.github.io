@@ -1,16 +1,20 @@
 ---
 permalink: /
-title: "About Me"
+title: "Samantha G. Dean, PhD"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am a PhD biostatistician working in infectious disease epidemiology, vaccine and drug effectiveness, and causal inference.
+I am a PhD statistician and data scientist working in infectious disease epidemiology, vaccine and drug effectiveness, and causal inference.
 
 In my graduate work at Yale, I developed and applied statistical methods for causal inference. I worked with Professors [Forrest Crawford](http://www.crawfordlab.io/) and [Laura Forastiere](https://ysph.yale.edu/profile/laura_forastiere/).
 
-I am interested in using statistics to answer quesions with social and policy impacts. 
+In my work, I use statistics to answer questions with social and policy impacts.
 
-Want to chat? Send me an email or a LinkedIn message (linked on left).
+Examples
+- Estimating COVID-19 vaccine effectiveness in Connecticut
+- Evaluating interventions with treatment spillover
+
+Want to chat? Send me an [email](sdean39@gmail.com) or a [LinkedIn](https://www.linkedin.com/in/samantha-dean123/) message.
