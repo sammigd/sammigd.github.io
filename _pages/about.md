@@ -17,4 +17,4 @@ Examples
 - Estimating COVID-19 vaccine effectiveness in Connecticut
 - Evaluating interventions with treatment spillover
 
-Want to chat? Send me an [email](sdean39@gmail.com) or a [LinkedIn](https://www.linkedin.com/in/samantha-dean123/) message.
+Want to chat? Send me an [email](mailto:sdean39@gmail.com) or a [LinkedIn](https://www.linkedin.com/in/samantha-dean123/) message.
