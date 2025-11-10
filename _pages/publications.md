@@ -4,6 +4,7 @@ title: "Publications"
 author_profile: true
 ---
 
+**Dean SG**, Papadogeorgou G, Forastiere L. Effective treatment allocation strategies under partial interference. arXiv Preprint.  [https://arxiv.org/abs/2504.07305](https://arxiv.org/abs/2504.07305)
 
 **Dean S**, Blakney R, Ricotta EE, Chalmers J, Kadri S, Olivier KN. Bronchiectasis-associated infections and outcomes in a large, geographically diverse electronic health record cohort in the United States. BMC Pulmonary Medicine, 2024. [https://doi.org/10.1186/s12890-024-02973-3](https://doi.org/10.1186/s12890-024-02973-3)
 
