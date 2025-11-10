@@ -7,9 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD statistician and data scientist working in infectious disease epidemiology, vaccine and drug effectiveness, and causal inference.
+I am a PhD statistician and data scientist. I have worked in healthcare AI, infectious disease epidemiology, vaccine and drug effectiveness, and causal inference.
 
-In my graduate work at [Yale](https://ysph.yale.edu/), I developed and applied statistical methods for causal inference. I worked with Professors [Forrest Crawford](http://www.crawfordlab.io/) and [Laura Forastiere](https://ysph.yale.edu/profile/laura_forastiere/).
+I was awarded an [NSF Graduate Research Fellowship Program](https://www.nsfgrfp.org/) grant for my PhD at [Yale](https://ysph.yale.edu/), where I developed and applied statistical methods for causal inference. I worked with Professors [Forrest Crawford](http://www.crawfordlab.io/) and [Laura Forastiere](https://ysph.yale.edu/profile/laura_forastiere/). 
+
+After my PhD, I was a [Modeling Fellow] (https://www.cdc.gov/pef/php/about/index.html) / Mathematical Statistician at the CDC. Currently, I work for innoVet Health on projects improving veteran healthcare. 
 
 In my work, I use statistics to answer questions with social and policy impacts.
 
